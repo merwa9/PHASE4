@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is the most expensive country to live in?",
+    "choice1": "UK",
+    "choice2": "Singapore",
+    "choice3": "Monaco",
+    "choice4": "Switzerland",
+    "answer": 3
+  },
+  {
+    "question": "Which is the largest continent?",
+    "choice1": "Europe",
+    "choice2": "Asia",
+    "choice3": "Africa",
+    "choice4": "North America",
+    "answer": 2
+  },
+  {
+    "question": "How many countries are there in the world",
+    "choice1": "143",
+    "choice2": "193",
+    "choice3": "195",
+    "choice4": "197",
+    "answer": 4
+  },
+  {
+    "question": "Which country has the strongest currency?",
+    "choice1": "Oman",
+    "choice2": "Kuwait",
+    "choice3": "Bahrain",
+    "choice4": "Switzerland",
+    "answer": 2
+  },
+  
+  {
+    "question": "Which country has the most trees?",
+    "choice1": "Russia",
+    "choice2": "US",
+    "choice3": "Switzerland",
+    "choice4": "Greenland",
+    "answer": 1
+  }
+  
+]
